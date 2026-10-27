@@ -1,3 +1,5 @@
 contours_iris_2026/
 *.csv
 *.zip
+!DVF/prix_m2_iris_annee.csv
+__pycache__/
